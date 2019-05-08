@@ -1,6 +1,6 @@
 'use strict';
 
-var Segundos=setInterval(clock,10);
+var Segundos=setInterval(clock,1000);
 var i=0
 
 function clock(){
@@ -8,5 +8,7 @@ function clock(){
     console.log(i);
     i++;
   }
-  clearInterval(Segundos);
+  else {
+    clearInterval(Segundos);
+    }
 }
