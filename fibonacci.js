@@ -16,3 +16,9 @@ for(let i=0; i<n; i++){
 }
  
  fibonacci(6);
+
+/*
+Buen trabajo!
+
+Cuida tu indentacion, semicolons y blank spaces
+*/

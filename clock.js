@@ -11,3 +11,9 @@ function clock(){
     clearInterval(cuenta);
     }
 }
+
+/*
+Buen trabajo!
+
+Cuida tu indentacion, semicolons y blank spaces
+*/

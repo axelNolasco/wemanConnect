@@ -12,3 +12,10 @@ for(i=1; i<=100; i++){
 }
 
 num()
+
+/*
+Hay algunos errores que ajuste y funciona bien
+Cuida tu indentacions, tus blank spaces y las semicolon
+
+Por favor, ajusta lo necesario para que funcione
+*/
