@@ -14,3 +14,10 @@ function fibonacci(n) {
 }
 
 fibonacci(10);
+
+/*
+good code, good indentations.
+pay attention to blank spaces.
+please, provide us with a description about
+how do the variables you use work.
+*/

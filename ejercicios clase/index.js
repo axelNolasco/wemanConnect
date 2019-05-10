@@ -10,3 +10,8 @@ circulo.obtenerArea();
 cuadrado.obtenerArea();
 triangulo.obtenerArea();
 rectangulo.obtenerArea();
+
+/* 
+Good code
+Pay attention to blank spaces
+*/

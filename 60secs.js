@@ -12,3 +12,13 @@ function clock(){
     clearInterval(Segundos);
     }
 }
+
+/*
+* avoid use numbers as name of files
+* cammel case to declare variables: var segundos
+* separate with spaces: var segundos = setInterval(clock, 100);
+* use spaces and semicolon var i = 0; 
+* use spaces function clock() {
+* use spaces if (i < 61) {
+* check indentation on else (line 13)
+*/

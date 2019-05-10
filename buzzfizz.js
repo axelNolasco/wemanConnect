@@ -11,3 +11,11 @@ function conteo(){
 	}
 }
 conteo();
+
+/*
+Good code, good indentation.
+Please check your blank spaces
+
+for instanse:
+function conteo() {
+*/
