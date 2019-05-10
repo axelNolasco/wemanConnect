@@ -9,3 +9,11 @@ function numbers() {
 }
 
 numbers();
+
+/*
+Buen trabajo
+
+Trata de ser consistente con la indentacion que usas.
+En tus otros ejercicios usas 2 espacios de separacions y en este 4.
+
+*/

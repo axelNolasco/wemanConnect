@@ -7,3 +7,10 @@ function pregunta() {
   }
   
   pregunta();
+
+/*
+Buen approach.
+Cuida tu indentacions
+Trata de evitar declarar setTimeOut en una sola linea.
+
+*/
