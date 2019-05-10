@@ -16,3 +16,8 @@ function contar() {
 }
 
 contar() //llama a la función
+
+/* 
+Please check you indentation and white spaces.
+Missing semicolon
+*/

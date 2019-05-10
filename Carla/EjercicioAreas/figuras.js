@@ -1,6 +1,6 @@
 'use strict';
 
-module exports = class Figuras {
+module exports = class Figuras { //module.exports
   constructor(tipofigura, ladoA, ladoB, altura, base, pi, radio) {
 
     this.tipofigura = tipofigura
@@ -13,7 +13,7 @@ module exports = class Figuras {
  }
 
 getarea() {
-	let tipofigura === this.tipo.toLowerCase();
+	let tipofigura === this.tipo.toLowerCase(); // === es un operador de comparacion y necesitas uno de asignacion (=)
 	let area = null;
 	
 //cuadrado
@@ -42,5 +42,7 @@ getarea() {
   }
 }
 
-
+// Buena logica. Intenta ahora usar un switch statement
+// Cuida las semicolon, la indentacion y los blank spaces
+// ajusta los detalles, si te atoras, me dices y te ayudo. 
 
